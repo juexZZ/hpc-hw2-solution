@@ -1,0 +1,24 @@
+vanilla dot product
+time = 0.630415
+flop-rate = 3.172436 Gflop/s
+
+unrolling by 2
+time = 0.335767
+flop-rate = 5.956404 Gflop/s
+
+disentangled 2
+time = 0.333213
+flop-rate = 6.002037 Gflop/s
+
+rearranged by 2
+time = 0.329351
+flop-rate = 6.072444 Gflop/s
+
+unrolling by 4
+time = 0.150410
+flop-rate = 13.296453 Gflop/s
+
+rearranged by 4
+time = 0.174358
+flop-rate = 11.470091 Gflop/s
+
